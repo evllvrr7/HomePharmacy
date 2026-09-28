@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HomePharmacy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <color name="home_total_bg">#263544</color>
+    <color name="home_safe_bg">#263B2B</color>
+    <color name="home_expiring_bg">#443622</color>
+    <color name="home_expired_bg">#42282B</color>
+    <color name="home_total_accent">#90CAF9</color>
+    <color name="home_safe_accent">#81C784</color>
+    <color name="home_expiring_accent">#FFB74D</color>
+    <color name="home_expired_accent">#EF9A9A</color>
+    <color name="medicine_safe">#81C784</color>
+    <color name="medicine_expiring">#FFB74D</color>
+    <color name="medicine_expired">#EF9A9A</color>
+    <color name="medicine_neutral">#B0B0B0</color>
+</resources>
